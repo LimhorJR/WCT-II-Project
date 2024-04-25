@@ -1,0 +1,135 @@
+[
+    {
+        "id" : "1",
+        "name" : "basic",
+        "img_URL" :"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "price" : "28$",
+        "sport" : "volleyball",
+        "type" : "T-Shirt",
+        "gender" : "Male",
+        "size" : "L",
+        "brand" :"nike" 
+    },
+    {
+        "id": "2",
+        "name" : "basic",
+        "img_URL" :"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "price": "32$",
+        "sport": "football",
+        "type": "Shorts",
+        "gender": "Male",
+        "size": "M",
+        "brand": "Adidas"
+    },
+    {
+        "id": "3",
+        "name" : "basic",
+        "img_URL" :"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "price": "25$",
+        "sport": "basketball",
+        "type": "Socks",
+        "gender": "Male",
+        "size": "S",
+        "brand": "Under Armour"
+    },
+    {
+        "id": "4",
+        "name" : "basic",
+        "img_URL" :"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "price": "30$",
+        "sport": "basketball",
+        "type": "Jersey",
+        "gender": "Male",
+        "size": "XL",
+        "brand": "Puma"
+    },
+    {
+        "id": "5",
+        "name" : "basic",
+        "img_URL" :"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "price": "27$",
+        "sport": "volleyball",
+        "type": "Shoes",
+        "gender": "Male",
+        "size": "XL",
+        "brand": "New Balance"
+    },
+    {
+        "id": "6",
+        "name" : "basic",
+        "img_URL" :"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "price": "29$",
+        "sport": "basketball",
+        "type": "Training Pants",
+        "gender": "Male",
+        "size": "L",
+        "brand": "Reebok"
+    },
+    {
+        "id": "7",
+        "name" : "basic",
+        "img_URL" :"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "price": "31$",
+        "sport": "volleyball",
+        "type": "Shoes",
+        "gender": "Male",
+        "size": "40",
+        "brand": "New Balance"
+    },
+    {
+        "id": "8",
+        "name" : "basic",
+        "img_URL" :"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "price": "26$",
+        "sport": "tennis",
+        "type": "Gloves",
+        "gender": "Male",
+        "size": "L",
+        "brand": "Mizuno"
+    },
+    {
+        "id": "9",
+        "name" : "basic",
+        "img_URL" :"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "price": "33$",
+        "sport": "running",
+        "type": "T-Shirt",
+        "gender": "Male",
+        "size": "One Size",
+        "brand": "Asics"
+    },
+    {
+        "id": "10",
+        "name" : "basic",
+        "img_URL" :"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "price": "28$",
+        "sport": "volleyball",
+        "type": "Backpack",
+        "gender": "Male",
+        "size": "One Size",
+        "brand": "Wilson"
+    },
+    {
+        "id": "11",
+        "name" : "basic",
+        "img_URL" :"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "price": "34$",
+        "sport": "football",
+        "type": "Short",
+        "gender": "Male",
+        "size": "M",
+        "brand": "Under Armour"
+    },
+    {
+        "id": "12",
+        "name" : "basic",
+        "img_URL" :"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "price": "29$",
+        "sport": "running",
+        "type": "Shoes",
+        "gender": "Male",
+        "size": "US 10",
+        "brand": "Nike"
+    }
+    
+]
